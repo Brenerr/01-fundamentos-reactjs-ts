@@ -8,3 +8,8 @@
 .header img {
     height: 2rem;
 }
+
+.header strong {
+    font-size: calc(25rem/16);
+    margin-left: 1rem;
+}

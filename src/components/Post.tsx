@@ -24,12 +24,9 @@ export interface PostProps {
     content: Content[];
 }
 
-
 export function Post({ author, publishedAt, content } : PostProps) {
 
-    const [comments, setComments] = useState([
-        'Muito bom Devon, parabéns!! 👏👏'
-    ])
+    const [comments, setComments] = useState(Array<string>);
 
 
     const [newCommentText, setNewCommentText] = useState('');
