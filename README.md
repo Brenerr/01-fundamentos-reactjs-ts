@@ -1,7 +1,9 @@
 <div align="center" >
   <img align="center" src="./public/IgniteFeedCover.png" alt="cover" width="100%">
-  <br>
+</div>
+<br>
 
+<div align="center" >
   <img align="center" src="./public/IgniteFeed.png" alt="main" width="100%">
 </div>
 <br>
